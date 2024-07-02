@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-08-09
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Finished my quantitative research internship at Goldman Sachs Quantitative Investment Strategies, where I worked within Equity Alpha Research.
